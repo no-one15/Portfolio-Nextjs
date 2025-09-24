@@ -14,6 +14,6 @@ export const expertItems: ExpertItem[] = [
   { name: 'Python', icon: '/icons/python.svg' },
   { name: 'Git', icon: '/icons/git.svg' },
   { name: 'HTML', icon: '/icons/html.svg' },
-  { name: 'CSS', icon: '/icons/css.svg' },
+  { name: 'N8N', icon: '/icons/n8n-logo.png' },
   { name: 'TypeScript', icon: '/icons/typescript.svg' }
 ]; 

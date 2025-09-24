@@ -11,6 +11,15 @@ import Link from "next/link";
 export default function ExperiencePage() {
   const experience = [
     {
+      role: "Software Engineer",
+      company: "Fluide Services, LTD",
+      duration: "June 2025 – present",
+      description:
+        "I Work on different tools and technolgies, from using automation tools like n8n to building full fledged web apps using MERN Stack and Nextjs. I also work on fixing bugs and improving performance of existing applications.",
+      logo: "/assets/img/company/FluideServices.png",
+      href: "",
+    },
+    {
       role: "MERN Stack Developer",
       company: "Upvave",
       duration: "March 2025 – May 2025",
