@@ -10,6 +10,13 @@ import Image from "next/image";
 export default function EducationPage() {
   const education = [
     {
+      degree: "Masters of Science",
+      major: "Data Science",
+      institution: "University of Management and Technology",
+      year: "2026 – present",
+      logo: "/assets/img/institution/UmtLogo.png", // Add your logo path here
+    },
+    {
       degree: "Bachelors of Science",
       major: "Computer Science",
       institution: "University of Management and Technology",

@@ -52,19 +52,19 @@ export default function AboutPage() {
             <div className="flex flex-wrap items-start gap-6 lg:gap-10">
               <div>
                 <h2 className="text-3xl font-semibold text-dark dark:text-light lg:text-[40px]">
-                  <Counter target={2} duration={2000} />+
+                  <Counter target={3} duration={2000} />+
                 </h2>
                 <p className="mt-2 text-muted">Year of Experience</p>
               </div>
               <div>
                 <h2 className="text-3xl font-semibold text-dark dark:text-light lg:text-[40px]">
-                  <Counter target={3} duration={2000} />
+                  <Counter target={11} duration={2000} />+
                 </h2>
                 <p className="mt-2 text-muted">Projects Completed</p>
               </div>
               <div>
                 <h2 className="text-3xl font-semibold text-dark dark:text-light lg:text-[40px]">
-                  <Counter target={3} duration={2000} />
+                  <Counter target={11} duration={2000} />+
                 </h2>
                 <p className="mt-2 text-muted">Happy Clients</p>
               </div>

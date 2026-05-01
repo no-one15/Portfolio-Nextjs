@@ -29,6 +29,15 @@ export default function ExperiencePage() {
       href: "https://upvave.com",
     },
     {
+      role: "Javascript Trainee",
+      company: "Pixarsart",
+      duration: "February 2025 – March 2025",
+      description:
+        "Worked as a JS Trainee for 2 Weeks, learnt different concept of Javascript, industry norms and built a clone of company website's homepage along with animations.",
+      logo: "/assets/img/company/pixarsart.png",
+      href: "https://pixarsart.com/",
+    },
+    {
       role: "React Js Intern",
       company: "Techscale",
       duration: "March 2024 – May 2024",
@@ -38,6 +47,15 @@ export default function ExperiencePage() {
       href: "https://techscale.io",
     },
     {
+      role: "Customer Service Executive",
+      company: "Ibex",
+      duration: "January 2024 – February 2024",
+      description:
+        "Provided customer support and resolved inquiries through phone and email. Maintained accurate customer records and ensured a high level of customer satisfaction.",
+      logo: "/assets/img/company/ibex..png",
+      href: "https://www.ibex.co/",
+    },
+    {
       role: "Frontend Developer Intern",
       company: "Hawk Logix",
       duration: "July 2022 – August 2022",
@@ -45,6 +63,15 @@ export default function ExperiencePage() {
         "Reported to my team lead. Worked on ReactJs projects and developed web apps using the MERN Stack. Learned ReactJs-NodeJs integration and completed my first freelance project with a 5-star review.",
       logo: "/assets/img/company/hawklogixLogo.png",
       href: "https://hawklogix.com",
+    },
+    {
+      role: "Contact Validator",
+      company: "TransData",
+      duration: "April 2018 – April 2019",
+      description:
+        "Worked as a contact validator, ensuring the accuracy and validity of contact information. This role involved verifying and updating contact details over phone calls to maintain a high-quality database for the company.",
+      logo: "/assets/img/company/transData.png",
+      href: "https://transdata.biz/",
     },
   ];
 
